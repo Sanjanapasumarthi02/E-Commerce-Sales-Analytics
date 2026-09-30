@@ -1,8 +1,8 @@
-# E-Commerce Sales Analytics Dashboard
+E-Commerce Sales Analytics Dashboard
 
 An interactive sales analytics dashboard built using **MySQL, SQL, Power BI, and Excel** to analyze e-commerce sales performance and generate business insights.
 
-## 📊 Dashboard
+📊 Dashboard
 
 The dashboard provides a clear view of:
 
@@ -15,14 +15,13 @@ The dashboard provides a clear view of:
 - Top 5 Products by Revenue
 - Interactive Region and Category Filters
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - **SQL**
 - **MySQL**
 - **Power BI**
 - **Excel**
-
-## 🗄️ Data & SQL Analysis
+🗄️ Data & SQL Analysis
 
 The sales data was stored and analyzed using MySQL.
 
@@ -38,7 +37,7 @@ Revenue was calculated using:
 
 `Quantity × Price`
 
-## 📈 Power BI Dashboard
+📈 Power BI Dashboard
 
 The MySQL database was connected to Power BI to build an interactive dashboard.
 
@@ -77,3 +76,28 @@ E-Commerce Sales Data
       Power BI
         ↓
 Interactive Dashboard
+🎯 Project Objective
+
+The objective of this project is to transform raw e-commerce sales data into meaningful business insights using SQL, MySQL, and Power BI.
+
+💡 Key Insights
+
+- Identified revenue contribution across different product categories.
+- Analyzed monthly sales trends.
+- Compared revenue performance across regions.
+- Identified the top-performing products based on revenue.
+
+## 📷 Dashboard Preview
+
+![E-Commerce Sales Analytics Dashboard](dashboard.png)
+
+👩‍💻 Skills Demonstrated
+
+- SQL Querying
+- MySQL
+- Data Analysis
+- Power BI
+- Data Visualization
+- KPI Development
+- Interactive Dashboard Design
+- Business Analytics
